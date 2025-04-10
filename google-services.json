@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "684454194826",
+    "project_id": "w-findlove",
+    "storage_bucket": "w-findlove.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684454194826:android:cbf77c295786ffb59e4773",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684454194826-c8qvol12ls4bi5fila1rvud291q70p89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "82efbdb724f1b258c6e388d0609ac1faebf492e5"
+          }
+        },
+        {
+          "client_id": "684454194826-d0pta776qklv7bob03d9evji62iit9hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq5s5cw3CacK2k9zrZIXG_RWS-a_QZprw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684454194826-d0pta776qklv7bob03d9evji62iit9hr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684454194826-blofivo7s65bdbrnuehao3biihqhq3io.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
